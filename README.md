@@ -1,1 +1,8 @@
-# bahasa-GOLANG-di-Debian-11
+# Install bahasa GOLANG di Debian11(BullsEye)
+
+**Update Repository Dulu yeekan**:
+
+##### Update
+```sh
+sudo apt-get update
+```
