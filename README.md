@@ -1,4 +1,4 @@
-# Install bahasa GOLANG di Debian11(BullsEye)
+# Install bahasa GOLANG di Linux(macem macem pokoknya yang berhubungan linux)
 
 **Update&Upgrade Repository dulu yeekan**:
 
@@ -16,7 +16,12 @@ Nah kalo ada yang belum download wget , mending download dulu
 ```sh
 sudo apt install wget -y
 ```
-kalo udah _skip aja yang bagian install wget nya
+kalo udah _SKIP aja yang bagian install wget nya
 
-**Menglanjut Mengdownload dan Menginstall si Golang**:
-silahkan ke link ini [Download Bahasa Golang](https://go.dev/dl/).
+#### Menglanjut Mengdownload dan Menginstall si Golang:
+silahkan ke link ini [Download Bahasa Golang](https://go.dev/dl/). lalu disitu ada pilihan yang di support:
+**Sesuaian dengan apa device lu lu pada! ini list nya:**
+* **Microsoft Windows** (Windows 7 or later, Intel 64-bit processor)
+* **Apple macOS (ARM64)** (macOS 11 or later, Apple 64-bit processor)
+* **Apple macOS (x86-64)** (macOS 10.13 or later, Intel 64-bit processor)
+* **Linux** (Linux 2.6.32 or later, Intel 64-bit processor)
