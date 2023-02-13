@@ -40,6 +40,9 @@ nah kalo udah lanjut!
 #### Mari Membuat Lingkungannya 
 make perintah ini 
 ```sh
+export PATH=$PATH:/usr/local/go/bin
+```
+```sh
 echo "ekspor PATH=/usr/local/go/bin:${PATH}" | sudo tee /etc/profile.d/go.sh 
 ```
 kaga bakal terjadi apa apa , terus copy paste lagi dah ini 
