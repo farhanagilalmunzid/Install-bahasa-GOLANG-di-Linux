@@ -110,6 +110,7 @@ CGO_LDFLAGS="-g -O2"
 PKG_CONFIG="pkg-config"
 GOGCCFLAGS="-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build1429786228=/tmp/go-build -gno-record-gcc-switches"
 ```
+Terimakasih
 
 nah usahain setiap mau buat proyek make bahasa si golang cek versi nya takut nya suka ilang ilangan , kalo ilang ilangan balik lagi ke step **Mari Membuat Lingkungannya** OKEH MASBRO!!!!!
 
